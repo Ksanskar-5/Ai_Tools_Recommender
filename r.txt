@@ -1,1 +1,0 @@
-source Edi-3/bin/activate && pip install -r requirements.txt && python -m uvicorn backend.main:app --reload

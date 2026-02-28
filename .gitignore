@@ -11,8 +11,8 @@ __pycache__/
 dist/
 build/
 
-# Research papers
-Research papers/
+# Misc / non-project files
+_misc/
 
 # macOS
 .DS_Store
