@@ -1,36 +1,16 @@
-# ============================
-# AI Tools Recommender
-# ============================
-
-# ----- Documents (keep local, not on GitHub) -----
-docs/
-
-# ----- Virtual environment -----
-Edi-3/
-venv/
-.venv/
-
-# ----- Environment variables -----
-.env
-
-# ----- Python caches -----
-__pycache__/
-*.py[cod]
-*.egg-info/
-dist/
-build/
-.pytest_cache/
-
-# ----- macOS -----
 .DS_Store
 
-# ----- IDE -----
-.idea/
-.vscode/
-*.swp
+# Flutter app generated files
+ai_tool_recommender_app/.dart_tool/
+ai_tool_recommender_app/.flutter-plugins
+ai_tool_recommender_app/.flutter-plugins-dependencies
+ai_tool_recommender_app/.idea/
+ai_tool_recommender_app/.metadata
+ai_tool_recommender_app/build/
+ai_tool_recommender_app/android/.gradle/
+ai_tool_recommender_app/android/.kotlin/
 
-# ----- Database (local only) -----
-*.db
+# Dart / Flutter
+**/.packages
+**/.pub/
 
-# ----- Apple Numbers files -----
-*.numbers
